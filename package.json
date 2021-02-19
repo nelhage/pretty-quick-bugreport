@@ -1,10 +1,5 @@
 {
   "dependencies": {},
-  "husky": {
-    "hooks": {
-      "pre-commit": "pretty-quick --staged"
-    }
-  },
   "devDependencies": {
     "husky": "^5.0.9",
     "prettier": "^2.2.1",
